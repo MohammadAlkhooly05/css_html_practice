@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    margin: 20px;
+    border: 1px solid rgb(29, 109, 196);
+    padding: 20px;
+}
